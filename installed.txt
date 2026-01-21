@@ -1,0 +1,46 @@
+7ZIP
+Adobe Acrobat Reader
+Amazon DCV server v24
+Amazon EC2 Launch 2.0
+Amazon SSM Agent v3.3
+Anaconda 2024.10
+Angular CLI install
+Athena ODBC Driver
+AWS CFN Bootstrap 2.0
+AWS CLI
+Chocolatey
+Chrome
+Chrome JSON View extension
+Chrome React Devtools
+CMAKE (added to path)
+Git 2.49.0 w/defaults
+Git Bash - added to path
+Gradle (added to path)
+IntelliJ Community Edition 2024.3.1
+Java 17 - added to path
+Jave 8
+Jetbrains Rider 2024.3.6
+Jupyterlab 4.3.6
+Jupyterlab Desktop App 4.2.5
+Libre Office
+Maven (added to path)
+MongoDV with Compass
+Mozilla Firefox
+MySQL 8 installed - Root user is: root/n3u3da!
+Node.js v22 - added to path
+Offset Explorer (formerly Kafka tool)
+Open JDK 17, 11, 8
+Open SSH Configured
+PGAdmin 4.9.2
+Pycharm Community Edition 2024.5.3
+Python 3.13 - added to path
+Tableau Public Desktop 2025.1
+Textshare
+Visual C++ Redistributable
+Visual C++ Redistributable 2015-2022
+Visual Studio 2022
+Visual Studio Build Tools 2019
+VS Code
+VS Code Extensions
+Windows SDK 10.1
+Windows SDK Add On
